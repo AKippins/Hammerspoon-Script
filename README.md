@@ -1,0 +1,1 @@
+The code in this repo utilizes a tool called Hammerspoon. This tool allows you to edit configurations in your Mac OS through the use of lua scripts. You can download the program  at http://www.hammerspoon.org/
